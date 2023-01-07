@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# ![Annalect](https://static-annalect.s3.amazonaws.com/annalect_logo.png) Onboard new AWS Account in Terraform
+# ![pooras](https://static-.s3.amazonaws.com/logo.png) Onboard new AWS Account in Terraform
 <!-- omit in toc -->
 
 Table of Contents
